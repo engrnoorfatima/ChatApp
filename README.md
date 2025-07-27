@@ -10,7 +10,7 @@ A full-stack real-time **chat application** built using the **MERN stack** with 
 - ⚛️ React (with Vite)
 - 🪝 React Hooks
 - 🌐 Axios for API communication
-- 🎨 Tailwind CSS / Bootstrap (customizable)
+- 🎨 Tailwind CSS / Bootstrap 
 - 🔒 JWT Auth integration
 
 ### Backend
